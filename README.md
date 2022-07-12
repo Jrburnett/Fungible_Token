@@ -1,7 +1,9 @@
 # Fungible_Token
 Create a fungible token using ERC20
-## Instrunctions
-The instructions for this module are as follows:
+
+This project is run using Remix Ide, the .sol files can be copied into remix ide, compiled and will work as shown below in the screenshots.
+## Steps 
+The steps for this project are as follows:
 
 1. Create the KaseiCoin Token Contract
 
@@ -11,7 +13,6 @@ The instructions for this module are as follows:
 
 4. Deploy the Crowdsale to a Local Blockchain
 
-5. Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
 
 ## Evaluation Evidence
@@ -31,3 +32,4 @@ The fourth image confirms the transcations were complete
 
 The final image shows the compiling of the smart contract
 ![image](https://github.com/Jrburnett/Fungible_Token/blob/main/Screen_shots/screenshot_compiled_KaseiCoin.png)
+
